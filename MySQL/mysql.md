@@ -138,3 +138,7 @@ Choose the one called:
 4. Enter it and click **OK** – it should now work! 🎉
 
 ---
+
+## Install mysql in vs code using the terminal
+
+- pip install mysql-connector-python
